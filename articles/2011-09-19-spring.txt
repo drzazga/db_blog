@@ -1,6 +1,6 @@
-﻿title: Początki przygody ze Springiem i Mavenem
+﻿title: Poczatki przygody ze Springiem i Mavenem
 author: drzazga
 date: 2011/09/19
 
 Przydatne linki:
-- struktura katalogów Mavenie: http://maven.apache.org/guides/introduction/introduction-to-the-standard-directory-layout.html
+- struktura katalogow Mavenie: http://maven.apache.org/guides/introduction/introduction-to-the-standard-directory-layout.html
